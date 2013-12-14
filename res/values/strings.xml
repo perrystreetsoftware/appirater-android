@@ -5,4 +5,5 @@
     <string name="rate">Yes, Rate %s</string>
     <string name="rate_later">Remind me later</string>
     <string name="rate_cancel">No, Thanks</string>
+    <string name="stars">★★★★★</string>
 </resources>
