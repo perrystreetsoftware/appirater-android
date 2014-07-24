@@ -1,12 +1,10 @@
 package com.sbstrm.appirater;
 
-import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.graphics.Paint;
 import android.net.Uri;
 import android.text.SpannableString;
 import android.text.style.UnderlineSpan;
@@ -98,7 +96,6 @@ public class Appirater {
         editor.commit();
     }   
     
-	@SuppressLint("NewApi")
 	private static void showRateDialog(final Context mContext, 
 			final SharedPreferences.Editor editor, 
 			final AppiraterController controller) {
