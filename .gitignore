@@ -5,3 +5,5 @@ gen/
 doc/
 .settings/
 res/values/settings.xml
+.gradle
+build/
