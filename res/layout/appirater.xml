@@ -30,7 +30,7 @@
     
     <Button
         android:id="@+id/rate"
-        style="@style/blue_button"
+        style="@style/blueButton"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
