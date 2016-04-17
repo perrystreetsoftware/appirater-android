@@ -11,5 +11,5 @@
     <!-- Set this to 0 to remind every launch -->
     <integer name="appirator_days_before_reminding">3</integer>
     <!-- Change to true to show every time, for testing -->
-    <bool name="appirator_test_mode">true</bool>
+    <bool name="appirator_test_mode">false</bool>
 </resources>
