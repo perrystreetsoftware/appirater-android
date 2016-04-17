@@ -6,14 +6,10 @@
      -->
     <string name="appirator_app_title">SCRUFF</string>
     <string name="appirator_market_url">market://details?id=%s</string>
-    <integer name="appirator_days_until_prompt">30</integer>
-    <integer name="appirator_launches_until_prompt">15</integer>
+    <integer name="appirator_days_until_prompt">14</integer>
+    <integer name="appirator_launches_until_prompt">20</integer>
     <!-- Set this to 0 to remind every launch -->
     <integer name="appirator_days_before_reminding">3</integer>
     <!-- Change to true to show every time, for testing -->
-    <bool name="appirator_test_mode">false</bool>
-    <!-- Change modify button colors -->
-    <color name="appirator_button_start_color">#ff777777</color>
-    <color name="appirator_button_end_color">#ff333333</color>
-    <color name="appirator_button_text_color">#ffffffff</color>
+    <bool name="appirator_test_mode">true</bool>
 </resources>
